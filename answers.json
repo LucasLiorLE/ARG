@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Puzzle 1",
-        "content": "testing",
-        "answers": ["t", "e", "s", "t"]
+        "content": "newline\ntest",
+        "answers": ["[];/.,\"\\"]
     }
 ]
